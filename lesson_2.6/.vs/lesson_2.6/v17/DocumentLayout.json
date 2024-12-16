@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\lesson2.5hmwrk\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:lesson2.5hmwrk\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\lesson2.5hmwrk\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:lesson2.5hmwrk\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\lesson2.5hmwrk\\bookcollesction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:lesson2.5hmwrk\\bookcollesction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\lesson2.5hmwrk\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:lesson2.5hmwrk\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "lesson2.5hmwrk\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\ShoppingCart.cs",
+              "RelativeToolTip": "lesson2.5hmwrk\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:33:21.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\Products.cs",
+              "RelativeDocumentMoniker": "lesson2.5hmwrk\\Products.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\Products.cs",
+              "RelativeToolTip": "lesson2.5hmwrk\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:32:37.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCollesction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\BookCollesction.cs",
+              "RelativeDocumentMoniker": "lesson2.5hmwrk\\BookCollesction.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\BookCollesction.cs",
+              "RelativeToolTip": "lesson2.5hmwrk\\BookCollesction.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:04:26.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\Book.cs",
+              "RelativeDocumentMoniker": "lesson2.5hmwrk\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\Book.cs",
+              "RelativeToolTip": "lesson2.5hmwrk\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:01:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:24:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
