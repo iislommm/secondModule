@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\dto\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\dto\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\dto\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\dto\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\dto\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\dto\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\dto\\basestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\dto\\basestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\enums\\degreestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\enums\\degreestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\service\\enums\\genderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:service\\enums\\genderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\dataaccess\\enteties\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:dataaccess\\enteties\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\dataaccess\\enum\\degreestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:dataaccess\\enum\\degreestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\dataaccess\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:dataaccess\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson2.7\\lesson2.7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45D4B839-0124-4525-B59B-446877F24806}|lesson2.7.csproj|solutionrelative:lesson2.7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\IStudentService.cs",
+              "RelativeToolTip": "Service\\IStudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:32:19.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwG8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:31:02.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dto\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\StudentUpdateDto.cs",
+              "RelativeToolTip": "Service\\Dto\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:06:37.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\StudentGetDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dto\\StudentGetDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\StudentGetDto.cs",
+              "RelativeToolTip": "Service\\Dto\\StudentGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:04:50.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dto\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\StudentCreateDto.cs",
+              "RelativeToolTip": "Service\\Dto\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:00:00.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DegreeStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Enums\\DegreeStatusDto.cs",
+              "RelativeDocumentMoniker": "Service\\Enums\\DegreeStatusDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Enums\\DegreeStatusDto.cs",
+              "RelativeToolTip": "Service\\Enums\\DegreeStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:52:54.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenderDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Enums\\GenderDto.cs",
+              "RelativeDocumentMoniker": "Service\\Enums\\GenderDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Enums\\GenderDto.cs",
+              "RelativeToolTip": "Service\\Enums\\GenderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:51:50.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\BaseStudentDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dto\\BaseStudentDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Service\\Dto\\BaseStudentDto.cs",
+              "RelativeToolTip": "Service\\Dto\\BaseStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:50:13.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:55:58.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:54:49.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\DataAccess\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Enum\\Gender.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\DataAccess\\Enum\\Gender.cs",
+              "RelativeToolTip": "DataAccess\\Enum\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:47:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DegreeStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\DataAccess\\Enum\\DegreeStatus.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Enum\\DegreeStatus.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\DataAccess\\Enum\\DegreeStatus.cs",
+              "RelativeToolTip": "DataAccess\\Enum\\DegreeStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:34:36.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\DataAccess\\Enteties\\Student.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Enteties\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\DataAccess\\Enteties\\Student.cs",
+              "RelativeToolTip": "DataAccess\\Enteties\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:30:23.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "lesson2.7",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\lesson2.7.csproj",
+              "RelativeDocumentMoniker": "lesson2.7.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\lesson2.7.csproj",
+              "RelativeToolTip": "lesson2.7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T10:27:52.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson2.7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:23:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

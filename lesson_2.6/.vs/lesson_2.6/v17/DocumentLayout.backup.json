@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\lesson2.5hmwrk\\bookcollesction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:lesson2.5hmwrk\\bookcollesction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|c:\\users\\user\\documents\\github\\secondmodule\\lesson_2.6\\lesson2.5hmwrk\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B019A33C-34BA-4045-BAC9-A7888D1504C2}|lesson_2.6.csproj|solutionrelative:lesson2.5hmwrk\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +40,63 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:24:54.138Z",
+              "WhenOpened": "2024-12-16T13:05:32.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:45:35.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:44:40.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCollesction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\BookCollesction.cs",
+              "RelativeDocumentMoniker": "lesson2.5hmwrk\\BookCollesction.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\BookCollesction.cs",
+              "RelativeToolTip": "lesson2.5hmwrk\\BookCollesction.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:04:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\Book.cs",
+              "RelativeDocumentMoniker": "lesson2.5hmwrk\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\secondModule\\lesson_2.6\\lesson2.5hmwrk\\Book.cs",
+              "RelativeToolTip": "lesson2.5hmwrk\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:01:38.273Z"
             }
           ]
         }
